@@ -4,7 +4,7 @@ Certainly! Here’s your GitHub profile bio with the skills for each category li
 
 ### 👋 Hi, I'm Mohamed Emad
 
-I'm a Full Stack Developer with a passion for building efficient, scalable, and robust web applications. With 3+ years of experience in developing modern web solutions, I have a strong background in both frontend and backend technologies. My expertise spans across the .NET ecosystem, Angular, and other web development tools and frameworks.
+I'm a Full Stack Developer with a passion for building efficient, scalable, and robust web applications. With 2+ years of experience in developing modern web solutions, I have a strong background in both frontend and backend technologies. My expertise spans across the .NET ecosystem, Angular, and other web development tools and frameworks.
 
 ### 🚀 Skills & Technologies
 
