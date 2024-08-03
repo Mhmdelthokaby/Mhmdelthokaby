@@ -1,6 +1,4 @@
-Here’s the updated version of your GitHub profile bio with your contact details:
 
----
 
 ### 👋 Hi, I'm Mohamed Emad
 
@@ -30,8 +28,4 @@ I'm a Full Stack Developer with a passion for building efficient, scalable, and 
 - [LinkedIn](https://www.linkedin.com/in/mohamed-emad-552196223)
 - [Email](mailto:mhmdemad737@gmail.com)
 
-Feel free to check out my repositories to see what I've been working on, and don't hesitate to reach out if you'd like to collaborate!
 
----
-
-Your contact information has been added. You can use this as your GitHub profile bio.
