@@ -1,4 +1,4 @@
-Certainly! Here’s a version of your GitHub profile bio that includes icons for your skills:
+Certainly! Here’s your GitHub profile bio with the skills for each category listed in one line:
 
 ---
 
@@ -8,27 +8,13 @@ I'm a Full Stack Developer with a passion for building efficient, scalable, and 
 
 ### 🚀 Skills & Technologies
 
-- **Frontend**
-  - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-  - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white)
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  - ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
+- **Frontend:** ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 
-- **Backend**
-  - ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.net&logoColor=white)
-  - ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-FF6C37?logo=api&logoColor=white)
-  - ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+- **Backend:** ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?logo=.net&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-FF6C37?logo=api&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 
-- **Database**
-  - ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white)
-  - ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?logo=.net&logoColor=white)
-  - ![LINQ](https://img.shields.io/badge/-LINQ-0078D7?logo=.net&logoColor=white)
+- **Database:** ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927?logo=microsoft-sql-server&logoColor=white) ![Entity Framework](https://img.shields.io/badge/-Entity_Framework-512BD4?logo=.net&logoColor=white) ![LINQ](https://img.shields.io/badge/-LINQ-0078D7?logo=.net&logoColor=white)
 
-- **Other**
-  - ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white)
-  - ![Problem Solving](https://img.shields.io/badge/-Problem_Solving-007ACC?logo=codeforces&logoColor=white)
-  - ![Algorithms](https://img.shields.io/badge/-Algorithms-00599C?logo=github&logoColor=white)
+- **Other:** ![JSON](https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=white) ![Problem Solving](https://img.shields.io/badge/-Problem_Solving-007ACC?logo=codeforces&logoColor=white) ![Algorithms](https://img.shields.io/badge/-Algorithms-00599C?logo=github&logoColor=white)
 
 ### 💼 Experience
 - Full Stack Development
@@ -48,4 +34,4 @@ Feel free to check out my repositories to see what I've been working on, and don
 
 ---
 
-You can replace `your-linkedin-profile` and `your-email@example.com` with your actual LinkedIn URL and email address. The icons are added using shields.io badges and should render correctly on your GitHub profile.
+You can replace the placeholders with your actual contact information. The skills are now displayed in one line per category as requested.
