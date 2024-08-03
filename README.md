@@ -1,10 +1,10 @@
-Certainly! Here’s your GitHub profile bio with the skills for each category listed in one line:
+Here’s the updated version of your GitHub profile bio with your contact details:
 
 ---
 
 ### 👋 Hi, I'm Mohamed Emad
 
-I'm a Full Stack Developer with a passion for building efficient, scalable, and robust web applications. With 2+ years of experience in developing modern web solutions, I have a strong background in both frontend and backend technologies. My expertise spans across the .NET ecosystem, Angular, and other web development tools and frameworks.
+I'm a Full Stack Developer with a passion for building efficient, scalable, and robust web applications. With 3+ years of experience in developing modern web solutions, I have a strong background in both frontend and backend technologies. My expertise spans across the .NET ecosystem, Angular, and other web development tools and frameworks.
 
 ### 🚀 Skills & Technologies
 
@@ -27,11 +27,11 @@ I'm a Full Stack Developer with a passion for building efficient, scalable, and 
 - Deepening my knowledge in modern JavaScript frameworks
 
 ### 📫 How to reach me
-- [LinkedIn](your-linkedin-profile)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-emad-552196223)
+- [Email](mailto:mhmdemad737@gmail.com)
 
 Feel free to check out my repositories to see what I've been working on, and don't hesitate to reach out if you'd like to collaborate!
 
 ---
 
-You can replace the placeholders with your actual contact information. The skills are now displayed in one line per category as requested.
+Your contact information has been added. You can use this as your GitHub profile bio.
